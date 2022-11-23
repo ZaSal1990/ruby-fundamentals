@@ -30,3 +30,11 @@ I'll do a list:
 """
 
 puts fat_cat
+
+
+puts <<END
+hello
+how are you
+END
+
+# <<END END creates multi-line string
